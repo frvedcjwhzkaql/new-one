@@ -1,0 +1,30 @@
+body{
+	background: url('../img/fon.png')  no-repeat;
+}
+.navbar *{
+	color: #000 !important;
+}
+.heading{
+	margin-top: 50px;
+}
+body {
+  position: relative;
+}
+.fon2{
+	background: url(../img/fon2.jpg);
+	background-size: cover;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.fon2 *{
+color: #fff !important;
+}
+.fon2 button{
+	margin: auto;
+    display: block;
+}
+.vkino{
+	width: 100% !important;
+}
